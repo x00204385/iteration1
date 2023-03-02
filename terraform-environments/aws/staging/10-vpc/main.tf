@@ -1,3 +1,4 @@
+# Added comment
 locals {
   aws_region       = "eu-west-1"
   environment_name = "staging"
